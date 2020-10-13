@@ -9,7 +9,7 @@ public class ProductManagementWebServicesApplication  {
 	
 	public static void main(String[] args) {
 		 SpringApplication.run(ProductManagementWebServicesApplication.class, args);
-			
+			System.out.println("Inside Main of the product");
 			
 	}
 
